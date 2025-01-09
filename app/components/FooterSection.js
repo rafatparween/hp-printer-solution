@@ -118,4 +118,4 @@ const FooterSection = () => {
   );
 };
 
-export default FooterSection;
+export default FooterSection
