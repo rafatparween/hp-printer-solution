@@ -26,7 +26,7 @@ const Chatlink = () => {
 const Navbar = () => {
   return (
     <nav className="bg-white h-[40px]">
-      <div className="flex gap-5 items-center py-3 justify-between">
+      <div className="flex gap-5 items-center py-3 justify-between bg-white">
         <ul className="ml-[5%] flex gap-4 md:gap-8 text-[#1C8DCE] text-lg md:text-[24px] lg:ml-[80px] xl:ml-[236px] 2xl:ml-[179px]">
           <Link legacyBehavior href="/" passHref>
             <div className="flex items-center mr-4 xl:ml-[-60px] 2xl:ml-[2px]">

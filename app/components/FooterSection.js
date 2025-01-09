@@ -111,7 +111,7 @@ const FooterSection = () => {
       </div> */}
       <div className="border-t border-gray-600 py-4 text-center">
         <p className="text-xs text-gray-400">
-        © Copyright, All Rights Reserved by hewlett-printer-solution
+        © Copyright, All Rights Reserved by printermartsolution.com
         </p>
       </div>
     </footer>
