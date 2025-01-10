@@ -11,21 +11,35 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/customsoftware/page": [
+    "/policy/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/customsoftware/page.css",
-      "static/chunks/app/customsoftware/page.js"
+      "static/chunks/app/policy/page.js"
     ],
-    "/customsoftware/Pages/page": [
+    "/term/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/customsoftware/Pages/page.js"
+      "static/chunks/app/term/page.js"
     ],
-    "/customsoftware/Pages/install/page": [
+    "/disclaimer/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/customsoftware/Pages/install/page.js"
+      "static/chunks/app/disclaimer/page.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/page.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
