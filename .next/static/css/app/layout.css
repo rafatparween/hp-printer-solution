@@ -1004,6 +1004,9 @@ video {
 .mt-\[55px\] {
   margin-top: 55px;
 }
+.mt-\[56px\] {
+  margin-top: 56px;
+}
 .mt-\[58px\] {
   margin-top: 58px;
 }
@@ -1021,9 +1024,6 @@ video {
 }
 .mt-\[89px\] {
   margin-top: 89px;
-}
-.mt-\[56px\] {
-  margin-top: 56px;
 }
 .block {
   display: block;

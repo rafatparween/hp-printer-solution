@@ -360,7 +360,7 @@ function Printersearch() {
       
             {/* Bottom Text */}
             <p className="mt-8 text-[#212529] text-[24px] font-bold">
-              Please wait... For Printer Setup Installation
+              Please wait... 
             </p>
           </div>
         </div>
@@ -374,5 +374,9 @@ function Printersearch() {
 }
 
 export default Printersearch;
+
+
+
+// For Printer Setup Installation
 
 

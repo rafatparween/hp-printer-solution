@@ -1,4 +1,4 @@
-// File: /home/rafat/hpprinter_solution/app/page.js
+// File: /home/navgurukul-pune/hp-printer-solution/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
